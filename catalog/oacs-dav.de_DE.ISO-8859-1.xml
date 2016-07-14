@@ -12,7 +12,7 @@
   <msg key="Folders_Disabled">Die ausgewählten Ordner wurden für  die WebDAV-Unterstützung deaktiviert</msg>
   <msg key="Folders_Enabled">Die ausgewählten Ordner wurden für die WebDAV-Unterstützung aktiviert.</msg>
   <msg key="Package_Name">Paket-Bezeichnung</msg>
-  <msg key="Package_Type">Paket-Typ</msg>
+  <msg key="Package_Type">Pakettyp</msg>
   <msg key="Status">Status</msg>
   <msg key="WebDAV_Folder_Administration">WebDAV-Ordnerverwaltung</msg>
 </message_catalog>
