@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="oacs-dav" locale="pl_PL" charset="utf-8">
+
+  <msg key="Disable">Wyłącz</msg>
+  <msg key="Disable_Folders">Wyłącz wybrane foldery</msg>
+  <msg key="Disabled">Wyłączony</msg>
+  <msg key="Enable">Włącz</msg>
+  <msg key="Enable_Folders">Włącz wybrane foldery</msg>
+  <msg key="Enabled">Włączony</msg>
+  <msg key="Folder_Name">Nazwa folderu</msg>
+  <msg key="Folder_URL">URL folderu</msg>
+  <msg key="Folders_Disabled">Dla wybranych folderów WebDAV został wyłączony.</msg>
+  <msg key="Folders_Enabled">Dla wybranych folderów WebDAV został włączony.</msg>
+  <msg key="Package_Name">Nazwa pakietu</msg>
+  <msg key="Package_Type">Typ pakietu</msg>
+  <msg key="Status">Status</msg>
+  <msg key="WebDAV_Folder_Administration">Administracja WebDAV dla folderów</msg>
+</message_catalog>
